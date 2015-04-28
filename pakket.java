@@ -1,9 +1,3 @@
-public class pakket {
-
-	attributen
-
-	methodes
-
-	
+public class Pakket {
 	
 }
